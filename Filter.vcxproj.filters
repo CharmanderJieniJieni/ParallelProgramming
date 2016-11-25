@@ -21,5 +21,7 @@
   </ItemGroup>
   <ItemGroup>
     <Media Include="Green.mp4" />
+    <Media Include="BB1_L.mp4" />
+    <Media Include="BB1_R.mp4" />
   </ItemGroup>
 </Project>
